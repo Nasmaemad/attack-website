@@ -1,6 +1,6 @@
-{
+esc{
   "presets": [
     "@babel/preset-env"
-  ],
+tab  ],
   comments: false
 }
